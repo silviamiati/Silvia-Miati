@@ -1,0 +1,16 @@
+15
+10000
+0
+30
+1.0
+1
+0
+
+	ReadInput >> temp
+	ReadInput >> nstep;
+	ReadInput >> first
+	ReadInput >> ncity
+	ReadInput >> rho
+	ReadInput >> generation
+	ReadInput >> fine
+	ReadInput >> restart

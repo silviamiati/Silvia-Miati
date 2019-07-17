@@ -1,0 +1,8 @@
+0.34 
+1.38054
+120 
+
+	ReadEle >> sigma;
+	ReadEle >> kb;
+	ReadEle >> epsilon_kb;
+

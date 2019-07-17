@@ -1,0 +1,12 @@
+1
+1
+1000000
+100
+0
+
+  ReadInput >> passo; //uniform or gaussian
+  ReadInput >> gr; //ground state or 2p
+  ReadInput >> nstep;
+  ReadInput >> nblock;
+	ReadInput >> restart;
+  

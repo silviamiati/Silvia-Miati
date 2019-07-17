@@ -1,0 +1,19 @@
+1.2
+108
+0.05
+5.0	
+10
+1000
+0
+0
+
+
+  ReadInput >> temp; //liquido
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> nblk;
+  ReadInput >> nstep; 
+  ReadInput >> Realsimulation;
+	ReadInput >> restart;
+  

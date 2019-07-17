@@ -1,0 +1,14 @@
+100
+100000
+0.8
+0.37
+1
+6
+
+  
+  ReadInput >> nblk;
+  ReadInput >> nstep; 
+  ReadInput >> mu;
+  ReadInput >> sigma; #valore quadratico
+	ReadInput >> restart
+	ReadInput >> length # valore dell'intervallo del bin per l'istogramma
